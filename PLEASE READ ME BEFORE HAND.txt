@@ -1,0 +1,7 @@
+NOTE: PLEASE OPEN FOLDER 'starter' IN YOUR IDE AS THE PRIMARY FOLDER. 
+HOW TO RUN: OPEN GameWindow.java and run the main method to start the game. 
+
+TASK 8.4:
+
+FEATURE ADDED: 
+Background music is now available. Done by creating a separate package \''music\'' in which there are two .wav files. Within the class starter.openworld.music.BackgroundMusic there is a method playMusic that plays the two songs whilst the game is running.

@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "World",
+            "request": "launch",
+            "mainClass": "openworld.World",
+            "projectName": "starter_53562163"
+        },
+        {
+            "type": "java",
+            "name": "GameWindow",
+            "request": "launch",
+            "mainClass": "openworld.gui.GameWindow",
+            "projectName": "starter_53562163"
+        },
+        {
+            "type": "java",
+            "name": "World",
+            "request": "launch",
+            "mainClass": "openworld.World",
+            "projectName": "starter_a556353"
+        },
+        {
+            "type": "java",
+            "name": "GameWindow",
+            "request": "launch",
+            "mainClass": "openworld.gui.GameWindow",
+            "projectName": "starter_a556353"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
