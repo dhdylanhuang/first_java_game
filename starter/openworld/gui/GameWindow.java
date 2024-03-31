@@ -71,7 +71,7 @@ public class GameWindow extends JFrame {
 			public void run() {
 				
 				_INSTANCE.setVisible(true);
-				String[] musicLocations = {"openworld/music/Ocarina of Time - Lost Woods [Slowed + Reverb].wav","openworld/music/Dark Fantasy.wav 12-53-42-026.wav"};
+				String[] musicLocations = {"starter/openworld/music/Ocarina of Time - Lost Woods [Slowed + Reverb].wav","starter/openworld/music/Dark Fantasy.wav 12-53-42-026.wav"};
 				BackgroundMusic backgroundMusic = new BackgroundMusic();
 				backgroundMusic.playMusic(musicLocations);
 			}
